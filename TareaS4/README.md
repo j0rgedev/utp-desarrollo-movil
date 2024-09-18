@@ -5,4 +5,4 @@ Desarrollo de la tarea de la semana 4
 
 ## Pantalla Principal
 
-![Pantalla Principal](/docs/principal.png)
+![Pantalla Principal](./docs/principal.png)

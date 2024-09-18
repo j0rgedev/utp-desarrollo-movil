@@ -6,8 +6,8 @@ PD: Probe creando un ViewModel para PrintActivity, funciona, pero creo que no es
 
 ## Pantalla Principal
 
-![Pantalla Principal](/docs/principal.png)
+![Pantalla Principal](./docs/principal.png)
 
 ## Pantalla de Detalle
 
-![Pantalla de Detalle](/docs/detail.png)
+![Pantalla de Detalle](./docs/detail.png)
