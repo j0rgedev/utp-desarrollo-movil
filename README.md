@@ -24,6 +24,9 @@ Bienvenido al repositorio de proyectos del curso de Desarrollo de Aplicaciones M
    - **Clase:** Semana 4
    - **Tema:** Manejo de Imágenes
 
+5. **[Matrículas](/PC1/README.md)**
+   - **Clase:** Semana 5
+   - **Tema:** PC1
 
 ## Contribución
 Cualquier contribución que puedas hacer para mejorar los proyectos es bienvenida. Para sugerencias, por favor crea un nuevo [Issue](https://github.com/j0rgedev/utp-desarrollo-movil/issues) y para cambios, crea un [PR](https://github.com/j0rgedev/utp-desarrollo-movil/pulls).
