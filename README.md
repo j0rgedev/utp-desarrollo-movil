@@ -28,6 +28,10 @@ Bienvenido al repositorio de proyectos del curso de Desarrollo de Aplicaciones M
    - **Clase:** Semana 5
    - **Tema:** PC1
 
+6. **[Login y Formulario Docente](/ClaseS6/README.md)**
+   - **Clase:** Semana 6
+   - **Tema:** Material Design
+
 ## Contribución
 Cualquier contribución que puedas hacer para mejorar los proyectos es bienvenida. Para sugerencias, por favor crea un nuevo [Issue](https://github.com/j0rgedev/utp-desarrollo-movil/issues) y para cambios, crea un [PR](https://github.com/j0rgedev/utp-desarrollo-movil/pulls).
 
